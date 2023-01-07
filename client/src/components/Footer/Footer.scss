@@ -1,0 +1,17 @@
+.footer{
+    padding: 20px 50px;
+    .top{
+        display: flex;
+        gap: 30px;
+        justify-content: space-between;
+        .item{
+            display: flex;
+            flex-direction: column;
+        }
+    }
+    .bottom{
+        margin-top: 2.5rem;
+        display: flex;
+        justify-content: space-between;
+    }
+}
